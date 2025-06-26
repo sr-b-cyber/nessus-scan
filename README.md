@@ -24,4 +24,4 @@ Only two scans that too with medium severity has been found the following are th
 <img width="1280" alt="medium1" src="https://github.com/user-attachments/assets/1218affb-7956-4c73-81bf-feef8ac12d44" />
 <img width="1280" alt="medium1" src="https://github.com/user-attachments/assets/1218affb-7956-4c73-81bf-feef8ac12d44" />
 <img width="1280" alt="medium2" src="https://github.com/user-attachments/assets/19e4a381-5b63-4821-9c34-63b8634c2f43" />
-<img width="1280" alt="medium2" src="https://github.com/user-attachments/assets/19e4a381-5b63-4821-9c34-63b8634c2f43" />
+
